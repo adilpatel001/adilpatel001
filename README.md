@@ -5,6 +5,7 @@
 - 📫 How to reach me :- Gmail :- theadilpatel431@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: nothing like fun
+-  to be added
 
 <!---
 adilpatel001/adilpatel001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
